@@ -16,7 +16,6 @@ namespace TestTask1
 
         private void PasswordValidation(string pass)
         {
-            string pattern = @"";
         }
     }
 }
