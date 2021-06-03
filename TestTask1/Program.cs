@@ -10,6 +10,13 @@ namespace TestTask1
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter your password: ");
+            string password = Console.ReadLine();
+        }
+
+        private void PasswordValidation(string pass)
+        {
+            string pattern = @"";
         }
     }
 }
